@@ -1,5 +1,10 @@
 this is my first try to commit
 
+<<<<<<< HEAD
 puto el que haga el segundo commit asdasd
 asdfsafsaf
+=======
+
+
+>>>>>>> feature
 este lo puse en feature
